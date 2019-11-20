@@ -67,6 +67,6 @@ UIViewController *_contentVc;
     if (_dismiss != nil) {
         _dismiss();
     }
-    
+    NSLog(@"cancelTitleBtnClick");
 }
 @end
